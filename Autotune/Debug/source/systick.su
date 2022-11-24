@@ -1,0 +1,4 @@
+C:\Users\itssh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PBKDF2\Autotune\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\Users\itssh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PBKDF2\Autotune\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/systick.c:18:6:Init_SysTick	8	static
+../source/systick.c:34:6:SysTick_Handler	8	static

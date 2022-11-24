@@ -1,0 +1,4 @@
+../source/sin.c:31:6:test	8	static
+../source/sin.c:45:6:tone_to_samples	32	static
+../source/sin.c:90:6:change_tone	8	static
+../source/sin.c:133:6:compute_samples	16	static

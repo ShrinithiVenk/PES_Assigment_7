@@ -1,0 +1,3 @@
+../source/ADC.c:19:6:Init_ADC0	8	static
+../source/ADC.c:45:6:ADC_analyse	40	static
+../source/ADC.c:68:6:TPM1_call	8	static
